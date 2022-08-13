@@ -5,3 +5,4 @@ A Full Stack application providing a space for users to share image and location
 
 ![](preview_images/Web%20capture_13-8-2022_154441_localhost.jpeg)
 
+![](preview_images/Web%20capture_13-8-2022_15455_localhost.jpeg)
